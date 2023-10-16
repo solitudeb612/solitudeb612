@@ -1,0 +1,4 @@
+sid,id,birthday,gender,societyID,address,postcode,phone,school,classID,roomID
+1,ID1,Mon Oct 16 15:58:13 CST 2023,Male,SocietyID1,Address1,12345,123-456-7890,School1,ClassID1,RoomID1
+2,ID2,Mon Oct 16 15:58:13 CST 2023,Female,SocietyID2,Address2,54321,987-654-3210,School2,ClassID2,RoomID2
+3,ID3,Mon Oct 16 15:58:13 CST 2023,Male,SocietyID3,Address3,67890,555-555-5555,School3,ClassID3,RoomID3
